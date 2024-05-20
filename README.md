@@ -3,4 +3,4 @@
 ## Liens 
 
 *  [**Code**](https://github.com/marcberret/project_football_data_analysis/blob/main/main.ipynb)
-* [**Papier de recherche**](https://github.com/marcberret/project_football_data_analysis/blob/main/rapport.pdf)
+* [**Papier de recherche**](https://github.com/marcberret/project_sleep_posture_monitoring/blob/main/Sleep_posture_monitoring.pdf)
